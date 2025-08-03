@@ -6,9 +6,7 @@ This repository documents my learning and progress in programming fundamentals u
 
 ## What You’ll Find Here
 
-- **Basic C programming concepts** — variables, data types, control structures, functions, pointers, and more  
 - **Logic building exercises** — puzzles and problems that sharpen your algorithmic thinking  
-- **Step-by-step tutorials** — clear explanations and examples to understand each topic deeply  
 - **Projects and practice challenges** — small programs that put your knowledge to the test
 
 ## Why C?
